@@ -7,8 +7,6 @@ This Project explored ReactJS, Function Components, component state, side effect
 
 ## Minimum Viable Product
 
-Your finished project must include all of the following requirements:
-
 - [ ] Use ONE of the following APIs:
   - [The Rick and Morty API](https://rickandmortyapi.com/)
 - [ ] Use the documentation and Google to fetch characters from API.
@@ -25,4 +23,3 @@ Your finished project must include all of the following requirements:
 - [ ] Consistent spacing. Examples: line breaks, around arguments and before/after functions.
 - [ ] Consistent quotation usage.
 - [ ] Spell-check.
-- [ ] Schedule time to review, refine and reassess your work.
